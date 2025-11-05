@@ -61,6 +61,4 @@ I hunt threats, respond to incidents, and engineer detections that help teams st
 
 Open to breach readiness assessments, purple team engagements, and threat hunting sprints. The quickest way to reach me is via [email](mailto:subhajitroy857@gmail.com).
 
----
 
-_This README lives in a repository named after your GitHub handle (e.g., `github.com/sr-857/sr-857`). Commit and push it there to make it visible on your public profile._
