@@ -4,7 +4,7 @@
 I hunt threats, respond to incidents, and engineer detections that help teams stay ahead of adversaries.
 
 <p align="left">
-  <a href="mailto:you@example.com">Email</a>
+  <a href="mailto:subhajitroy857@gmail.com">Email</a>
   · <a href="https://www.linkedin.com/in/sr857">LinkedIn</a>
   · <a href="https://sr-857.github.io">Threat Lab</a>
 </p>
@@ -35,14 +35,22 @@ I hunt threats, respond to incidents, and engineer detections that help teams st
 
 <!-- Update the project links above with your actual repositories. -->
 
+## 🏅 Certifications & Achievements
+
+- [GIAC Security Operations Certified (GSOC)](https://www.credly.com/users/s.r857/badges) – Validated blue-team fundamentals and security operations workflows.
+- [AWS Certified Security – Specialty](https://www.credly.com/users/s.r857/badges) – Demonstrated expertise in securing cloud workloads and incident response in AWS.
+- [MITRE ATT&CK Defender (MAD) Credential](https://www.credly.com/users/s.r857/badges) – Proficient in adversary emulation and mapping detections to ATT&CK.
+
+> Replace the badge list above with the exact certifications on your Credly profile.
+
 ## 📈 GitHub Snapshot
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sr-857&show_icons=true&hide_border=true" alt="GitHub Stats" height="150" />
- 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sr-857&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
 
-
+> Replace the handle above if you fork this profile.
 
 ## ✍️ Latest Writing & Talks
 
@@ -52,7 +60,7 @@ I hunt threats, respond to incidents, and engineer detections that help teams st
 
 ## 🤝 Let's Collaborate
 
-Open to breach readiness assessments, purple team engagements, and threat hunting sprints. The quickest way to reach me is via [email](mailto:you@example.com).
+Open to breach readiness assessments, purple team engagements, and threat hunting sprints. The quickest way to reach me is via [email](mailto:subhajitroy857@gmail.com).
 
 ---
 
