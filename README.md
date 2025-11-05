@@ -39,7 +39,7 @@ I hunt threats, respond to incidents, and engineer detections that help teams st
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sr-857&show_icons=true&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sr-857&hide_border=true" alt="GitHub Streak" height="150" />
+ 
 </p>
 
 > Replace the handle above if you fork this profile.
