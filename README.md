@@ -39,7 +39,7 @@ I build data-driven logistics tools that turn messy delivery operations into pre
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sr-857&show_icons=true&hide_border=true" alt="GitHub Stats" height="250" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sr-857&hide_border=true" alt="GitHub Streak" height="250" />
+
 </p>
 
 
