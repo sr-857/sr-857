@@ -1,59 +1,59 @@
 # Hi, I'm Roney! 👋
 
 <!-- Replace this introduction with a sentence or two about yourself. -->
-I build data-driven logistics tools that turn messy delivery operations into predictable, optimized routes.
+I hunt threats, respond to incidents, and engineer detections that help teams stay ahead of adversaries.
 
 <p align="left">
-  <a href="mailto:subhajitroy857@gmail.com">Email</a>
+  <a href="mailto:you@example.com">Email</a>
   · <a href="https://www.linkedin.com/in/sr857">LinkedIn</a>
-  · <a href="https://your-portfolio.example">Portfolio</a>
+  · <a href="https://sr-857.github.io">Threat Lab</a>
 </p>
 
 ---
 
 ## 🚀 What I'm Focused On
 
-- **Route Intelligence Platforms** – Building end-to-end systems that combine demand forecasting, constraint solving, and driver tooling.
-- **Optimization APIs** – Delivering FastAPI microservices powered by Google OR-Tools and modern Python data stacks.
-- **Real-time Ops Dashboards** – Crafting Next.js dashboards with live telemetry, analytics, and actionable insights.
+- **Threat Hunting & Detection Engineering** – Building high-signal detections mapped to MITRE ATT&CK across cloud and endpoint telemetry.
+- **Incident Response Automation** – Orchestrating playbooks with Python, SOAR, and chatops to shorten mean time to contain.
+- **Adversary Simulation & Purple Teaming** – Recreating real-world tradecraft to validate controls and harden defenses.
 
 ## 🧰 Toolbox at a Glance
 
 | Category | Highlights |
 | --- | --- |
-| Languages | Python, TypeScript, SQL |
-| Backend | FastAPI, OR-Tools, Pydantic, Uvicorn |
-| Frontend | Next.js, React, Tailwind, Mapbox GL |
-| Data & ML | Pandas, NumPy, Scikit-learn, Streamlit |
-| DevOps | Docker, GitHub Actions, Vercel, Railway |
+| Languages | Python, PowerShell, Bash |
+| Detection & SIEM | Splunk, Elastic, Google Chronicle, Sigma |
+| Endpoint & Network | Velociraptor, Osquery, Zeek, Suricata |
+| Cloud & Infra Security | AWS Security Hub, Azure Defender, Terraform |
+| Offensive & Testing | Nmap, Burp Suite, Metasploit, Kali Linux |
 
 ## 🌟 Featured Projects
 
-- [**LPG Route Optimizer**](https://github.com/sr-857/lpg-route-optimizer) – Streamlit + OR-Tools demo showcasing baseline vs optimized delivery routes with live KPIs.
-- [**Optimizer Service**](https://github.com/sr-857/optimizer-service) – FastAPI microservice that exposes VRPTW optimization endpoints.
-- [**Delivery Ops Dashboard**](https://github.com/sr-857/delivery-ops-dashboard) – Next.js analytics workspace with heatmaps, live tracking, and PDF reporting.
+- [**Threat Hunting Playbooks**](https://github.com/sr-857/threat-hunting-playbooks) – Sigma/YARA driven hunts with enrichment notebooks for common attacker behaviors.
+- [**Detection Engineering Lab**](https://github.com/sr-857/detection-engineering-lab) – Elastic + Zeek sandbox that ships ATT&CK-aligned detections and unit tests.
+- [**Incident Response Automation Kit**](https://github.com/sr-857/incident-response-automation) – Python SOAR integrations for containment, evidence collection, and post-incident reporting.
 
 <!-- Update the project links above with your actual repositories. -->
 
 ## 📈 GitHub Snapshot
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sr-857&show_icons=true&hide_border=true" alt="GitHub Stats" height="250" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sr-857&show_icons=true&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sr-857&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
 
-
+> Replace the handle above if you fork this profile.
 
 ## ✍️ Latest Writing & Talks
 
-- [How to productionize VRP solvers](https://medium.com/your-article) *(blog)*
-- [Designing real-time route dashboards](https://speakerdeck.com/your-talk) *(talk)*
-- [Optimizing LPG logistics in emerging markets](https://newsletter.example.com/your-issue) *(newsletter)*
+- [Building Sigma rules for emerging threat clusters](https://medium.com/your-article) *(blog)*
+- [Purple teaming with MITRE ATT&CK & CALDERA](https://speakerdeck.com/your-talk) *(talk)*
+- [Automating cloud incident response with Python](https://newsletter.example.com/your-issue) *(newsletter)*
 
 ## 🤝 Let's Collaborate
 
-Open to consulting, product collaborations, and mentoring. The quickest way to reach me is via [email](mailto:you@example.com).
+Open to breach readiness assessments, purple team engagements, and threat hunting sprints. The quickest way to reach me is via [email](mailto:you@example.com).
 
 ---
 
-_This README lives in a repository named after your GitHub handle (e.g., `github.com/your-username/your-username`). Commit and push it there to make it visible on your public profile._
+_This README lives in a repository named after your GitHub handle (e.g., `github.com/sr-857/sr-857`). Commit and push it there to make it visible on your public profile._
