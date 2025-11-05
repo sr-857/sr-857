@@ -35,13 +35,20 @@ I hunt threats, respond to incidents, and engineer detections that help teams st
 
 <!-- Update the project links above with your actual repositories. -->
 
+
 ## 🏅 Certifications & Achievements
 
-- [GIAC Security Operations Certified (GSOC)](https://www.credly.com/users/s.r857/badges) – Validated blue-team fundamentals and security operations workflows.
-- [AWS Certified Security – Specialty](https://www.credly.com/users/s.r857/badges) – Demonstrated expertise in securing cloud workloads and incident response in AWS.
-- [MITRE ATT&CK Defender (MAD) Credential](https://www.credly.com/users/s.r857/badges) – Proficient in adversary emulation and mapping detections to ATT&CK.
+- **Make In-house Hacking and Pentesting Lab** — EC-Council (Nov 2025) · Skills: Pentesting lab design, Kali Linux.
+- **SQL Injection Attacks** — EC-Council (Nov 2025).
+- **Foundations of Cybersecurity** — Google / Coursera (Oct 2025) · Credential ID: XRQ0TK0CKIS2.
+- **AWS Solutions Architecture Job Simulation** — Amazon Web Services (Oct 2025).
+- **Deloitte Australia – Cyber Job Simulation** — Deloitte (Oct 2025).
+- **AIG Shields Up: Cybersecurity Job Simulation** — AIG (Oct 2025).
+- **Tata Cybersecurity Analyst Job Simulation** — Tata Group (Oct 2025).
+- **Introduction to Cybersecurity** — Cisco (Oct 2025).
+- **Mastercard Cybersecurity Job Simulation** — Mastercard (Oct 2025).
 
-> Replace the badge list above with the exact certifications on your Credly profile.
+[Full credential list on Credly](https://www.credly.com/users/s.r857/badges).
 
 ## 📈 GitHub Snapshot
 
