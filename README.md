@@ -42,7 +42,7 @@ I build data-driven logistics tools that turn messy delivery operations into pre
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sr-857&hide_border=true" alt="GitHub Streak" height="250" />
 </p>
 
-> Replace `sr-857` in the image URLs to match your GitHub handle.
+
 
 ## ✍️ Latest Writing & Talks
 
