@@ -55,11 +55,7 @@
 
 <br>
 
-<h2 align="center">📊 System Logs</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sr-857&theme=merko&hide_border=true&background=000000" alt="GitHub Streak" />
-</div>
+ 
 
 <h2 align="center">🛠️ Active Projects</h2>
 
