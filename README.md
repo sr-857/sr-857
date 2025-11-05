@@ -1,5 +1,3 @@
-
-
 # Hi, I'm Roney! 👋
 
 <div align="center">
@@ -55,13 +53,19 @@
 
 <br>
 
- 
-
 <h2 align="center">🛠️ Active Projects</h2>
 
 - [**Threat Hunting Playbooks**](https://github.com/sr-857/threat-hunting-playbooks) – Sigma/YARA driven hunts with enrichment notebooks for common attacker behaviors.
 - [**Detection Engineering Lab**](https://github.com/sr-857/detection-engineering-lab) – Elastic + Zeek sandbox that ships ATT&CK-aligned detections and unit tests.
 - [**Incident Response Automation Kit**](https://github.com/sr-857/incident-response-automation) – Python SOAR integrations for containment, evidence collection, and post-incident reporting.
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sr-857&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sr-857&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-857&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 <h2 align="center">🏅 Certifications & Achievements</h2>
 
