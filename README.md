@@ -50,7 +50,6 @@ I hunt threats, respond to incidents, and engineer detections that help teams st
  
 </p>
 
-> Replace the handle above if you fork this profile.
 
 ## ✍️ Latest Writing & Talks
 
