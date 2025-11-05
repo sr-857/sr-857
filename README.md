@@ -4,7 +4,7 @@
 I build data-driven logistics tools that turn messy delivery operations into predictable, optimized routes.
 
 <p align="left">
-  <a href="mailto:you@example.com">Email</a>
+  <a href="mailto:subhajitroy857@gmail.com">Email</a>
   · <a href="https://www.linkedin.com/in/sr857">LinkedIn</a>
   · <a href="https://your-portfolio.example">Portfolio</a>
 </p>
@@ -29,20 +29,20 @@ I build data-driven logistics tools that turn messy delivery operations into pre
 
 ## 🌟 Featured Projects
 
-- [**LPG Route Optimizer**](https://github.com/your-username/lpg-route-optimizer) – Streamlit + OR-Tools demo showcasing baseline vs optimized delivery routes with live KPIs.
-- [**Optimizer Service**](https://github.com/your-username/optimizer-service) – FastAPI microservice that exposes VRPTW optimization endpoints.
-- [**Delivery Ops Dashboard**](https://github.com/your-username/delivery-ops-dashboard) – Next.js analytics workspace with heatmaps, live tracking, and PDF reporting.
+- [**LPG Route Optimizer**](https://github.com/sr-857/lpg-route-optimizer) – Streamlit + OR-Tools demo showcasing baseline vs optimized delivery routes with live KPIs.
+- [**Optimizer Service**](https://github.com/sr-857/optimizer-service) – FastAPI microservice that exposes VRPTW optimization endpoints.
+- [**Delivery Ops Dashboard**](https://github.com/sr-857/delivery-ops-dashboard) – Next.js analytics workspace with heatmaps, live tracking, and PDF reporting.
 
 <!-- Update the project links above with your actual repositories. -->
 
 ## 📈 GitHub Snapshot
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sr-857&show_icons=true&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sr-857&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sr-857&show_icons=true&hide_border=true" alt="GitHub Stats" height="250" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sr-857&hide_border=true" alt="GitHub Streak" height="250" />
 </p>
 
-> Replace `your-username` in the image URLs to match your GitHub handle.
+> Replace `sr-857` in the image URLs to match your GitHub handle.
 
 ## ✍️ Latest Writing & Talks
 
