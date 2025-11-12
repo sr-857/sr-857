@@ -65,15 +65,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-857&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" width="660" />
 </div>
 <div align="center">
-  <a href="">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-summary?username=sr-857&theme=radical" alt="GitHub Profile Summary" width=https://github-profile-summary-cards.vercel.app/api/cards/profile-summary?username=sr-857&theme=radical"600" />
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-summary?username=sr-857&theme=radical">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-summary?username=sr-857&theme=radical" alt="GitHub Profile Summary" width="600" />
   </a>
 </div>
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sr-857&theme=radical" alt="GitHub Profile Stats" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sr-857&theme=radical" alt="GitHub Profile Stats" width="350" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-857&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-857&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="350" />
 </div>
 
 <p align="center">
