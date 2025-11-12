@@ -77,7 +77,8 @@
 </div>
 
 <p align="center">
-  <strong>Highlights:</strong> 1,673 contributions in the last 12 months · 203 commits so far in 2024
+  <strong>Highlights:</strong> 1,673 contributions in the last 12 months · 203 commits so far in 2024<br/>
+  <strong>Snapshot:</strong> 1,692 contributions in the last year · 9 public repos · Joined GitHub 3 years ago · Based in India
 </p>
 
 <h2 align="center">🏅 Certifications & Achievements</h2>
