@@ -62,17 +62,20 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-857&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" width="600" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-857&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" width="760" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sr-857&theme=radical" alt="GitHub Profile Stats" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-summary?username=sr-857&theme=radical" alt="GitHub Profile Summary" width="600" />
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-857&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-857&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="500" />
 </div>
 
 <p align="center">
-  <strong>Highlights:</strong> 1,673 contributions in the last 12 months · 203 commits so far in 2024
+  <strong>Highlights:</strong> 1,673 contributions in the last 12 months · 203 commits so far in 2024<br/>
+  <strong>Snapshot:</strong> 1.47k contributions in 2025 · 9 public repos · Joined GitHub 2 years ago
 </p>
 
 <h2 align="center">🏅 Certifications & Achievements</h2>
