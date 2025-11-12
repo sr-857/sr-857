@@ -62,16 +62,17 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-857&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" width="760" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-857&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" width="560" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-857&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="500" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sr-857&theme=radical" alt="GitHub Profile Stats" width="400" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-857&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
 </div>
 
 <p align="center">
-  <strong>Highlights:</strong> 1,673 contributions in the last 12 months · 203 commits so far in 2024<br/>
-  <strong>Snapshot:</strong> 77 commits in 2025 · Active across 10 repositories
+  <strong>Highlights:</strong> 1,673 contributions in the last 12 months · 203 commits so far in 2024
 </p>
 
 <h2 align="center">🏅 Certifications & Achievements</h2>
