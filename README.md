@@ -62,13 +62,13 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-857&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" width="560" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-857&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" width="600" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sr-857&theme=radical" alt="GitHub Profile Stats" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sr-857&theme=radical" alt="GitHub Profile Stats" width="300" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-857&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-857&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300" />
 </div>
 
 <p align="center">
