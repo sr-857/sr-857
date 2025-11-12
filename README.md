@@ -66,7 +66,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-summary?username=sr-857&theme=radical" alt="GitHub Profile Summary" width="700" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sr-857&theme=radical" alt="GitHub Profile Stats" width="640" />
 </div>
 
 <div align="center">
