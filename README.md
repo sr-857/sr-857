@@ -62,7 +62,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sr-857&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sr-857&theme=radical" alt="GitHub Profile Summary" />
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-857&layout=compact&theme=radical" alt="Top Languages" />
 </div>
