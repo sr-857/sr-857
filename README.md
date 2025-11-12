@@ -75,7 +75,7 @@
 
 <p align="center">
   <strong>Highlights:</strong> 1,673 contributions in the last 12 months · 203 commits so far in 2024<br/>
-  <strong>Snapshot:</strong> 1.47k contributions in 2025 · 9 public repos · Joined GitHub 2 years ago
+  <strong>Snapshot:</strong> 77 commits in 2025 · Active across 10 repositories
 </p>
 
 <h2 align="center">🏅 Certifications & Achievements</h2>
