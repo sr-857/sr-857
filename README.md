@@ -16,7 +16,7 @@
 🎯  Validating defenses via purple teaming and adversary emulation
 📡  Loves turning raw logs into high-signal detections mapped to MITRE ATT&CK
 📬  Contact: subhajitroy857@gmail.com
-
+█
 ```
 
 <h2 align="center">🌐 Connections</h2>
@@ -62,7 +62,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sr-857&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sr-857&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-857&layout=compact&theme=radical" alt="Top Languages" />
 </div>
