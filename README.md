@@ -66,15 +66,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sr-857&theme=radical" alt="GitHub Profile Stats" width="640" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-857&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="500" />
 </div>
 
 <p align="center">
-  <strong>Highlights:</strong> 1,673 contributions in the last 12 months · 203 commits so far in 2024
+  <strong>Highlights:</strong> 1,673 contributions in the last 12 months · 203 commits so far in 2024<br/>
+  <strong>Snapshot:</strong> 77 commits in 2025 · Active across 10 repositories
 </p>
 
 <h2 align="center">🏅 Certifications & Achievements</h2>
