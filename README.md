@@ -64,6 +64,11 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-857&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" width="660" />
 </div>
+<div align="center">
+  <a href="">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-summary?username=sr-857&theme=radical" alt="GitHub Profile Summary" width=https://github-profile-summary-cards.vercel.app/api/cards/profile-summary?username=sr-857&theme=radical"600" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sr-857&theme=radical" alt="GitHub Profile Stats" width="400" />
