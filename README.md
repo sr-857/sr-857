@@ -58,6 +58,7 @@
 - [**Threat Hunting Playbooks**](https://github.com/sr-857/threat-hunting-playbooks) – Sigma/YARA driven hunts with enrichment notebooks for common attacker behaviors.
 - [**Detection Engineering Lab**](https://github.com/sr-857/detection-engineering-lab) – Elastic + Zeek sandbox that ships ATT&CK-aligned detections and unit tests.
 - [**Incident Response Automation Kit**](https://github.com/sr-857/incident-response-automation) – Python SOAR integrations for containment, evidence collection, and post-incident reporting.
+- [**🛡️ CyberSentinel**](https://github.com/sr-857/CyberSentinel) – Threat Intel + Log Correlation Dashboard. An analyst-grade security tool that ingests threat intelligence, parses SSH/Apache logs, correlates IOCs, and generates real-time alerts.
 
 <h2 align="center">📊 GitHub Stats</h2>
 
