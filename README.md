@@ -56,7 +56,7 @@
 <h2 align="center">🛠️ Active Projects</h2>
 
 - [**Threat Hunting Playbooks**](https://github.com/sr-857/threat-hunting-playbooks) – Sigma/YARA driven hunts with enrichment notebooks for common attacker behaviors.
-- [**phishguard-ai**](https://github.com/sr-857/phishguard-ai) – 🛡️ Next-Gen AI Phishing Detection System. Real-time email analysis with 98.3% accuracy, powered by ML & NLP. Features a futuristic React dashboard, FastAPI backend, and live threat intelligence.
+- [**Phishguard-AI**](https://github.com/sr-857/phishguard-ai) – 🛡️ Next-Gen AI Phishing Detection System. Real-time email analysis with 98.3% accuracy, powered by ML & NLP. Features a futuristic React dashboard, FastAPI backend, and live threat intelligence.
 - [**Detection Engineering Lab**](https://github.com/sr-857/detection-engineering-lab) – Elastic + Zeek sandbox that ships ATT&CK-aligned detections and unit tests.
 - [**Incident Response Automation Kit**](https://github.com/sr-857/incident-response-automation) – Python SOAR integrations for containment, evidence collection, and post-incident reporting.
 - [**🛡️ CyberSentinel**](https://github.com/sr-857/CyberSentinel) – Threat Intel + Log Correlation Dashboard. An analyst-grade security tool that ingests threat intelligence, parses SSH/Apache logs, correlates IOCs, and generates real-time alerts.
