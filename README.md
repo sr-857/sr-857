@@ -241,13 +241,13 @@ Threat intel correlation dashboard with SSH/Apache log parsing and real-time IOC
 <div align="center">
   
 ```ascii
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│  "In the shadows of the digital realm, I hunt the hunters."          │
-│                                                                      │
-│         ~ SR-857  |  THREAT HUNTER  |  INCIDENT RESPONDER            │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+                ┌──────────────────────────────────────────────────────────────────────┐
+                │                                                                      │
+                │  "In the shadows of the digital realm, I hunt the hunters."          │
+                │                                                                      │
+                │         ~ SR-857  |  THREAT HUNTER  |  INCIDENT RESPONDER            │
+                │                                                                      │
+                └──────────────────────────────────────────────────────────────────────┘
 ```
 
 ![Visitors](https://komarev.com/ghpvc/?username=sr-857&label=VISITORS&color=00ff41&style=for-the-badge)
