@@ -51,6 +51,65 @@
 
 ---
 
+## 🎯 ACTIVE OPERATIONS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [AstraGuard-AI](https://github.com/sr-857/AstraGuard-AI)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+AI-powered satellite security system with real-time anomaly detection and autonomous recovery
+
+### 🚨 [PhishGuard-AI](https://github.com/sr-857/phishguard-ai)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+Next-gen email threat detection with 98.3% ML accuracy and real-time threat intelligence
+
+### ⚔️ [Threat Hunting Playbooks](https://github.com/sr-857/threat-hunting-playbooks)
+![Sigma](https://img.shields.io/badge/Sigma-000000?style=flat-square&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-2E5C8A?style=flat-square&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE-D32F2F?style=flat-square&logoColor=white)
+
+Sigma/YARA rules mapped to MITRE ATT&CK with enrichment notebooks
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 [Detection Engineering Lab](https://github.com/sr-857/detection-engineering-lab)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
+![Zeek](https://img.shields.io/badge/Zeek-777BB4?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+ATT&CK-aligned detection sandbox with automated testing and purple team validation
+
+### 🤖 [IR Automation Kit](https://github.com/sr-857/incident-response-automation)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logoColor=white)
+
+SOAR integrations for automated containment, evidence collection, and reporting
+
+### 🛡️ [CyberSentinel](https://github.com/sr-857/CyberSentinel)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+Threat intel correlation dashboard with SSH/Apache log parsing and real-time IOC alerts
+
+</td>
+</tr>
+</table>
+
+---
+
+
 <div align="center">
 
 ### 💻 Tools of the Trade
@@ -137,65 +196,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-857&theme=github-compact&bg_color=0d1117&color=00ff41&line=ff0080&point=00d4ff&area=true&hide_border=true" width="100%" />
 
 </div>
-
-
----
-
-## 🎯 ACTIVE OPERATIONS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ [AstraGuard-AI](https://github.com/sr-857/AstraGuard-AI)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-AI-powered satellite security system with real-time anomaly detection and autonomous recovery
-
-### 🚨 [PhishGuard-AI](https://github.com/sr-857/phishguard-ai)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-Next-gen email threat detection with 98.3% ML accuracy and real-time threat intelligence
-
-### ⚔️ [Threat Hunting Playbooks](https://github.com/sr-857/threat-hunting-playbooks)
-![Sigma](https://img.shields.io/badge/Sigma-000000?style=flat-square&logoColor=white)
-![YARA](https://img.shields.io/badge/YARA-2E5C8A?style=flat-square&logoColor=white)
-![MITRE](https://img.shields.io/badge/MITRE-D32F2F?style=flat-square&logoColor=white)
-
-Sigma/YARA rules mapped to MITRE ATT&CK with enrichment notebooks
-
-</td>
-<td width="50%" valign="top">
-
-### 🔬 [Detection Engineering Lab](https://github.com/sr-857/detection-engineering-lab)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
-![Zeek](https://img.shields.io/badge/Zeek-777BB4?style=flat-square&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-ATT&CK-aligned detection sandbox with automated testing and purple team validation
-
-### 🤖 [IR Automation Kit](https://github.com/sr-857/incident-response-automation)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logoColor=white)
-
-SOAR integrations for automated containment, evidence collection, and reporting
-
-### 🛡️ [CyberSentinel](https://github.com/sr-857/CyberSentinel)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-Threat intel correlation dashboard with SSH/Apache log parsing and real-time IOC alerts
-
-</td>
-</tr>
-</table>
 
 
 ---
