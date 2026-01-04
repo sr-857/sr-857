@@ -236,6 +236,7 @@ Threat intel correlation dashboard with SSH/Apache log parsing and real-time IOC
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20quieter%20you%20become%2C%20the%20more%20you%20can%20hear&author=Kali%20Linux%20Mantra&border=true&borderColor=00ff41" width="600" />
 </div>
 
+
 <div align="center">
 
 ```ascii
