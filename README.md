@@ -192,8 +192,7 @@ Threat intel correlation dashboard with SSH/Apache log parsing and real-time IOC
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sr-857&theme=radical&background=0a0e27&ring=00ff41&fire=ff0080&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff&border=00d4ff&hide_border=true" width="66%" />
 
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-857&theme=github-compact&bg_color=0d1117&color=00ff41&line=ff0080&point=00d4ff&area=true&hide_border=true" width="100%" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sr-857&bg_color=000000&color=c0d902&line=ff0000&point=37ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
