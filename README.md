@@ -215,7 +215,7 @@ Threat intel correlation dashboard with SSH/Apache log parsing and real-time IOC
 
 <br/>
 
-**📜 1,673 contributions** • **203 commits in 2024** • **9 public repos** • **ECWoC '26**
+**📜 1,673 contributions** • **1013 commits in 2024** 
 
 [View All Credentials →](https://www.credly.com/users/s.r857)
 
@@ -240,13 +240,13 @@ Threat intel correlation dashboard with SSH/Apache log parsing and real-time IOC
 <div align="center">
   
 ```ascii
-                ┌──────────────────────────────────────────────────────────────────────┐
-                │                                                                      │
-                │  "In the shadows of the digital realm, I hunt the hunters."          │
-                │                                                                      │
-                │         ~ SR-857  |  THREAT HUNTER  |  INCIDENT RESPONDER            │
-                │                                                                      │
-                └──────────────────────────────────────────────────────────────────────┘
+              ┌──────────────────────────────────────────────────────────────────────┐
+              │                                                                      │
+              │  "In the shadows of the digital realm, I hunt the hunters."          │
+              │                                                                      │
+              │         ~ SR-857  |  THREAT HUNTER  |  INCIDENT RESPONDER            │
+              │                                                                      │
+              └──────────────────────────────────────────────────────────────────────┘
 ```
 
 ![Visitors](https://komarev.com/ghpvc/?username=sr-857&label=VISITORS&color=00ff41&style=for-the-badge)
