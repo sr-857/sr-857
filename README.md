@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CYBERSECURITY%20ANALYST&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Threat%20Hunter%20%7C%20Detection%20Engineer%20%7C%20IR%20Automation%20Nerd&descSize=18&descAlignY=55" width="100%"/>
 
-# 👾 SUBHAJIT ROY | SR-857 ⚡️
+# 👾 SUBHAJIT ROY | *SR-857* ⚡️
 ```bash
 ┌──(roney㉿sr857)-[~/threat-lab]
 └─$ whoami
