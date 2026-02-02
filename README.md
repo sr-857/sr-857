@@ -198,6 +198,8 @@ Threat intel correlation dashboard with SSH/Apache log parsing and real-time IOC
 
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-trophies.vercel.app/?username=sr-857&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🏆 ACHIEVEMENTS & CERTIFICATIONS
 
