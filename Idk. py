@@ -1,50 +1,56 @@
-# Lab Exercise 1: Tip & Split Calculator
+# Ask for customer details
+name = input("Enter customer name: ")
+quantity = int(input("Enter number of coffees: "))
+price = float(input("Enter price per coffee: "))
 
-bill = float(input("Enter total bill: "))
-tip_percent = float(input("Enter tip percentage (e.g., 15, 20): "))
-people = int(input("How many people are splitting? "))
+# Calculate total cost
+total = quantity * price
 
-tip_amount = bill * (tip_percent / 100)
-total_bill = bill + tip_amount
-per_person = total_bill / people
+# Calculate tax (5%)
+tax = total * 0.05
 
-print(f"Each person must pay: ${per_person:.2f}")# Lab Exercise 2: Number Guessing Game
+# Final amount
+final_amount = total + tax
 
-secret_number = 73
+# Print receipt
+print("Thank you,", name, "!")
+print("Your total for", quantity, "coffees, including tax, is $", final_amount)
+
+
+
 
 while True:
-    guess = int(input("Guess the number: "))
-    if guess > secret_number:
-        print("Too high! Try again.")
-    elif guess < secret_number:
-        print("Too low! Try again.")
-    else:
-        print("Congratulations! You guessed it.")
-        break# Lab Exercise 3: Vowel Shouter
+    password = input("Enter a password: ")
 
-phrase = input("Enter a phrase: ")
-result = ""
+    if password == "quit":
+        print("Process cancelled.")
+        break
 
-for ch in phrase:
-    if ch == " ":
+    if len(password) < 8:
+        print("Password too short. Try again.")
         continue
-    if ch.lower() in "aeiou":
-        result += ch.upper()
+
     else:
-        result += ch.lower()
+        print("Password accepted!")
+        break
 
-print(result)# Lab Exercise 4: Modular Geometry Tool
 
-def calculate_area(shape, dim1, dim2=0):
-    if shape == "square":
-        return dim1 * dim1
-    elif shape == "rectangle":
-        return dim1 * dim2
-    elif shape == "triangle":
-        return 0.5 * dim1 * dim2
+
+
+def calculate_pay(hours_worked, hourly_rate, bonus=0.0):
+    if hours_worked > 40:
+        overtime_hours = hours_worked - 40
+        overtime_pay = overtime_hours * hourly_rate * 1.5
+        regular_pay = 40 * hourly_rate
+        total_pay = regular_pay + overtime_pay + bonus
     else:
-        return "Invalid shape"
+        total_pay = (hours_worked * hourly_rate) + bonus
 
-print(calculate_area("square", 5))
-print(calculate_area("rectangle", 4, 6))
-print(calculate_area("triangle", 3, 8))
+    return total_pay
+
+# Function calls
+pay1 = calculate_pay(45, 500)
+print("Weekly Pay:", pay1)
+
+pay2 = calculate_pay(hours_worked=38, hourly_rate=400, bonus=2000)
+print("Weekly Pay:", pay2)
