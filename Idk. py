@@ -1,0 +1,50 @@
+# Lab Exercise 1: Tip & Split Calculator
+
+bill = float(input("Enter total bill: "))
+tip_percent = float(input("Enter tip percentage (e.g., 15, 20): "))
+people = int(input("How many people are splitting? "))
+
+tip_amount = bill * (tip_percent / 100)
+total_bill = bill + tip_amount
+per_person = total_bill / people
+
+print(f"Each person must pay: ${per_person:.2f}")# Lab Exercise 2: Number Guessing Game
+
+secret_number = 73
+
+while True:
+    guess = int(input("Guess the number: "))
+    if guess > secret_number:
+        print("Too high! Try again.")
+    elif guess < secret_number:
+        print("Too low! Try again.")
+    else:
+        print("Congratulations! You guessed it.")
+        break# Lab Exercise 3: Vowel Shouter
+
+phrase = input("Enter a phrase: ")
+result = ""
+
+for ch in phrase:
+    if ch == " ":
+        continue
+    if ch.lower() in "aeiou":
+        result += ch.upper()
+    else:
+        result += ch.lower()
+
+print(result)# Lab Exercise 4: Modular Geometry Tool
+
+def calculate_area(shape, dim1, dim2=0):
+    if shape == "square":
+        return dim1 * dim1
+    elif shape == "rectangle":
+        return dim1 * dim2
+    elif shape == "triangle":
+        return 0.5 * dim1 * dim2
+    else:
+        return "Invalid shape"
+
+print(calculate_area("square", 5))
+print(calculate_area("rectangle", 4, 6))
+print(calculate_area("triangle", 3, 8))
