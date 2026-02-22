@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CYBERSECURITY%20ANALYST&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Threat%20Hunter%20%7C%20Detection%20Engineer%20%7C%20IR%20Automation%20Nerd&descSize=18&descAlignY=55" width="100%"/>
 
-# 👾 SUBHAJIT ROY | *SR-857* ⚡️![](https://img.shields.io/badge/Hackathon-Winner-gold?style=flat-square&logo=trophy)
+# 👾 SUBHAJIT ROY | *SR-857* ⚡️![](https://img.shields.io/badge/Hackathon-Winner-gold?style=flat-square&logo=trophy) ![Security Researcher](https://img.shields.io/badge/Security-Researcher-red?style=flat-square&logo=security)
 ```bash
 ┌──(roney㉿sr857)-[~/threat-lab]
 └─$ whoami
@@ -22,11 +22,12 @@
 
 <div align="center">
 
-### 🔐 SECURITY CLEARANCE
+### 🔐 SECURITY CLEARANCE  
 
 [![](https://img.shields.io/badge/🛡️_THREAT_HUNTER-ACTIVE-00ff41?style=for-the-badge&labelColor=0a0e27&color=00ff41)](https://github.com/sr-857)
 [![](https://img.shields.io/badge/⚔️_PURPLE_TEAM-CERTIFIED-ff0080?style=for-the-badge&labelColor=0a0e27&color=ff0080)](https://github.com/sr-857)
 [![](https://img.shields.io/badge/🤖_AUTOMATION_ENGINEER-EXPERT-00d4ff?style=for-the-badge&labelColor=0a0e27&color=00d4ff)](https://github.com/sr-857)
+![Security Guardian](https://img.shields.io/badge/Award-Security_Guardian-darkred?style=for-the-badge&logo=shield)
 
 </div>
 
