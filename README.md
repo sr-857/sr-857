@@ -1,9 +1,11 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CYBERSECURITY%20ANALYST&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Threat%20Hunter%20%7C%20Detection%20Engineer%20%7C%20IR%20Automation%20Nerd&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CYBERSECURITY%20ANALYST&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Threat%20Hunter%20%7C%20Detection%20Engineer%20%7C%20IR%20Automation%20Nerd&descSize=18&descAlignY=50" width="100%"/>
 
-# 👾 SUBHAJIT ROY | *SR-857* ⚡️![](https://img.shields.io/badge/Hackathon-Winner-gold?style=flat-square&logo=trophy) ![Security Researcher](https://img.shields.io/badge/Security-Researcher-red?style=flat-square&logo=security)
+# 👾 SUBHAJIT ROY | *SR-857* ⚡️![](https://img.shields.io/badge/Hackathon-Winner-gold?style=flat-square&logo=trophy) ![Security Researcher](https://img.shields.io/badge/Security-Researcher-red?style=flat-square&logo=security)  
+
+
 ```bash
 ┌──(roney㉿sr857)-[~/threat-lab]
 └─$ whoami
@@ -20,39 +22,9 @@
 ```
 ---
 
-<div align="center">
 
-### 🔐 SECURITY CLEARANCE  
 
-[![](https://img.shields.io/badge/🛡️_THREAT_HUNTER-ACTIVE-00ff41?style=for-the-badge&labelColor=0a0e27&color=00ff41)](https://github.com/sr-857)
-[![](https://img.shields.io/badge/⚔️_PURPLE_TEAM-CERTIFIED-ff0080?style=for-the-badge&labelColor=0a0e27&color=ff0080)](https://github.com/sr-857)
-[![](https://img.shields.io/badge/🤖_AUTOMATION_ENGINEER-EXPERT-00d4ff?style=for-the-badge&labelColor=0a0e27&color=00d4ff)](https://github.com/sr-857)
-![Security Guardian](https://img.shields.io/badge/Award-Security_Guardian-darkred?style=for-the-badge&logo=shield)
-
-</div>
-
-<div align="center">
-  
-### 📧 CONNECT
-  
-<a href="https://www.linkedin.com/in/sr857" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27" />
-</a>
-<a href="mailto:subhajitroy857@gmail.com">
-  <img src="https://img.shields.io/badge/SECURE_MAIL-00ff41?style=for-the-badge&logo=gmail&logoColor=0a0e27&labelColor=00ff41&color=0a0e27" />
-</a>
-<a href="https://sr-857.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/THREAT_LAB-ff0080?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0a0e27" />
-</a>
-<a href="https://www.credly.com/users/s.r857/badges" target="_blank">
-  <img src="https://img.shields.io/badge/CREDENTIALS-FF6C2C?style=for-the-badge&logo=credly&logoColor=white&labelColor=0a0e27" />
-</a>
-
-</div>
-
----
-
-## 🎯 ACTIVE OPERATIONS
+## 🎯 ACTIVE PROJECTs
 
 <table>
 <tr>
@@ -183,31 +155,18 @@ Threat intel correlation dashboard with SSH/Apache log parsing and real-time IOC
 
 </div>
 
----
-
 <div align="center">
-  
-### ⚡ COMBAT STATISTICS
 
+### 🔐 SECURITY CLEARANCE  
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sr-857&theme=radical&background=0a0e27&ring=00ff41&fire=ff0080&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff&border=00d4ff&hide_border=true" width="66%" />
+[![](https://img.shields.io/badge/🛡️_THREAT_HUNTER-ACTIVE-00ff41?style=for-the-badge&labelColor=0a0e27&color=00ff41)](https://github.com/sr-857)
+[![](https://img.shields.io/badge/⚔️_PURPLE_TEAM-CERTIFIED-ff0080?style=for-the-badge&labelColor=0a0e27&color=ff0080)](https://github.com/sr-857)
+[![](https://img.shields.io/badge/🤖_AUTOMATION_ENGINEER-EXPERT-00d4ff?style=for-the-badge&labelColor=0a0e27&color=00d4ff)](https://github.com/sr-857)
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sr-857&bg_color=000000&color=c0d902&line=ff0000&point=37ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-
 ---
-## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=sr-857&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
-## 🏆 ACHIEVEMENTS & CERTIFICATIONS
-
-<div align="center">
-
- <img src="https://github-profile-trophy.vercel.app/?username=sr-857&theme=matrix&no-frame=true&no-bg=true&row=1&column=8" alt="GitHub Trophies" />
-
 ### 🎖️ CERTIFIED BY
 
 <img src="https://img.shields.io/badge/EC--Council-D90000?style=for-the-badge&logo=eccouncil&logoColor=white" />
@@ -224,45 +183,17 @@ Threat intel correlation dashboard with SSH/Apache log parsing and real-time IOC
 
 </div>
 
----
-
-
-
 
 <br/>
-
-<div>
-
-### 🎯 HACKER WISDOM
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20quieter%20you%20become%2C%20the%20more%20you%20can%20hear&author=Kali%20Linux%20Mantra&border=true&borderColor=00ff41" width="600" />
-
-
-</div>
-
-<div align="center">
-  
-```ascii
-              ┌──────────────────────────────────────────────────────────────────────┐
-              │                                                                      │
-              │  "In the shadows of the digital realm, I hunt the hunters."          │
-              │                                                                      │
-              │         ~ SR-857  |  THREAT HUNTER  |  INCIDENT RESPONDER            │
-              │                                                                      │
-              └──────────────────────────────────────────────────────────────────────┘
-```
-
-![Visitors](https://komarev.com/ghpvc/?username=sr-857&label=VISITORS&color=00ff41&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/sr-857?logo=github&style=for-the-badge&color=ff0080&labelColor=0d1117)
-![GitHub stars](https://img.shields.io/github/stars/sr-857?logo=github&style=for-the-badge&color=00d4ff&labelColor=0d1117)
-
-**🔥 See you in the logs • Stay vigilant • Hunt relentlessly 🔥**
-
-</div>
-
----
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=50&lines=See+you+in+the+logs...;Stay+sharp.+Stay+secure.;The+hunt+never+ends." alt="Typing SVG" />
 </div>
+
+<div align="center">
+
+
+
+---
+
 
